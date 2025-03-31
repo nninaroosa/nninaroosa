@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nninaroosa
-- 👀 I’m interested in fitness & animals
-- 🌱 I’m currently learning IT at Sampo
-- 💞️ I’m looking to collaborate on at this point anything
+- 👀 I’m interested in fitness, animals & cybersecurity
+- 🌱 I’m currently learning Programming at Sampo and will graduate in 2025
+
 
 <!---
 nninaroosa/nninaroosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
